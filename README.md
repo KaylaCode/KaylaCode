@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaylaCode
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning web design and development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github and CodePen
 - 📫 How to reach me... on ogehemeoghene@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
